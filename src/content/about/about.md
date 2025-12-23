@@ -2,15 +2,12 @@
 title: 'About'
 ---
 
-<!--
-This content will be displayed at the top of the index page.
-You can leave this empty if you don’t want to show any content.
--->
+Content Ideas is a daily feed of content prompts and short outlines generated and refined by automated AI agents. The agents search and iterate on topics every day to surface practical, focused ideas you can use as-is or adapt for your projects.
 
-A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
+This site is free to use. Outputs are published with minimal editing; curated oversight and moderation are provided by Bruno Germano (creator & moderator).
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
+- Creator & moderator: Bruno Germano — https://github.com/egermano
+- Project source: https://github.com/egermano/content-ideas.egermano.com
+- Site: https://content-ideas.egermano.com
 
-Effortlessly share your thoughts in _a calm & dustless space._
-
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+Contributions, bug reports, and suggestions are welcome via the project repository.

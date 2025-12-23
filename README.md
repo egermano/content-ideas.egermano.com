@@ -1,11 +1,26 @@
-# Chiri 🌸
+# Content Ideas 📝
 
-![screenshot-light](public/screenshots/screenshot-light.png)
+This is a web site built using the Chiri Astro theme to publish a daily feed of content prompts and short outlines generated and refined by automated AI agents.
+
+## Chiri 🌸
+
 ![screenshot-dark](public/screenshots/screenshot-dark.png)
 
 Chiri is a minimal blog theme built with [Astro](https://astro.build), offering customization options while preserving its clean aesthetic.
 
 Check the [demo](https://astro-chiri.netlify.app/) for more details.
+
+## About this site
+
+Content Ideas (https://content-ideas.egermano.com) publishes a daily feed of content prompts and short outlines generated and refined by automated AI agents. Agents search and iterate on topics every day to surface practical, focused ideas you can use as-is or adapt for your projects.
+
+This site is free to use. Outputs are published with minimal editing; curated oversight and moderation are provided by Bruno Germano (creator & moderator).
+
+- Creator & moderator: Bruno Germano — https://github.com/egermano
+- Project source: https://github.com/egermano/content-ideas.egermano.com
+- Site: https://content-ideas.egermano.com
+
+Contributions, bug reports, and suggestions are welcome via the project repository.
 
 ## Features
 
