@@ -1,60 +1,55 @@
 ---
-title: 'Agentic UI Patterns: Designing for the Next Generation of AI'
+title: 'Agentic UI Patterns'
 pubDate: '2024-10-26'
 ---
 Start the filename with `_` to mark it as a draft and hide it from the list.
 
 ## Summary
-A conceptual exploration of agentic UI patterns, such as ReAct, Reflection, and Tool Use. This content is for experienced web developers and UI/UX designers who want to understand the future of human-computer interaction.
+An exploration of emerging UI patterns for "agentic" user interfaces, where AI agents can take actions on behalf of the user. This content is for frontend developers and UI/UX designers who are interested in the next generation of user interfaces.
 
 ## Why now
-As AI models become more autonomous, the way we interact with them needs to evolve. Agentic design patterns are a new and important area of research and development that will shape the next generation of AI-powered applications.
+The concept of "agentic UI" is gaining traction as AI models become more capable of performing complex tasks. As we move from simple chatbots to more autonomous AI agents, there is a need to establish new UI patterns and best practices for designing and building these interfaces.
 
 ## References
-- https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/ - machinelearningmastery.com - 2024-10-26 - An overview of several key agentic design patterns.
+- https://www.adept.ai/blog/the-next-next-user-interface - adept.ai - 2024-10-26 - A blog post from a leading AI company on the future of user interfaces.
+- https://e2b.dev/ - e2b.dev - 2024-10-26 - A platform for building and deploying AI agents.
 
 ## Scores
-- novelty: 10
-- search_demand: 5 (estimated)
-- competition: 3
+- novelty: 9
+- search_demand: 6 (estimated)
+- competition: 4
 - effort: 7
-- monetization: 5
-- virality: 7
-- composite (weighted, 0–100): 65
+- monetization: 7
+- virality: 8
+- composite (weighted, 0–100): 71
 
 ## SEO keywords
-Primary: agentic UI patterns, AI design patterns, agentic architecture
-Related: ReAct pattern, AI agents, human-in-the-loop AI
+Primary: agentic UI patterns, AI user interface design
+Related: autonomous agents UI, AI-native UI/UX, conversational UI
 
 ## Content angles
-- Conceptual deep dive: An explanation of the key agentic design patterns and their implications for UI/UX.
-- Case study: An analysis of a real-world application that uses agentic UI patterns.
-- Future-looking: A speculative piece on how these patterns will change the web as we know it.
+- Explainer: A breakdown of the key principles of agentic UI design.
+- Showcase: A collection of innovative agentic UI examples from a variety of applications.
+- Tutorial: How to build a simple agentic UI using a framework like React or Svelte.
 
 ## Production effort
-Estimated: medium (12-18 hours)
+Estimated: medium (15–20 hours)
 
 ## CTA/Monetization
-- "Subscribe to our newsletter for more insights on the future of AI."
-- Promote a workshop or course on designing and building agentic AI applications.
+- Offer a design kit or component library for building agentic UIs.
+- Create a course or workshop on the principles of agentic UI/UX design.
+- Provide consulting services to help companies design and build their own agentic interfaces.
 
 ## Experiment plans
-### Experiment 1 — Implement a simple ReAct agent
-- Objective: To build a simple application that demonstrates the ReAct (Reason and Act) pattern.
-- Stack: Python, LangChain, OpenAI API.
-- Steps:
-  1. Set up a LangChain agent with a simple tool (e.g., a calculator or a search engine).
-  2. Give the agent a multi-step task that requires it to use the tool.
-  3. Log the agent's "thoughts" and "actions" to show the ReAct pattern in action.
-- Expected: A working demonstration of the ReAct pattern that can be used to explain the concept to a technical audience.
-- Time est: 6-8 hours
-- Difficulty: medium
-- Safety/privacy/licensing: Be mindful of the agent's ability to access external tools and data.
+- To be developed.
 
 ## Validation checklist
-- Technical: Ensure the ReAct agent is able to complete its task reliably.
-- SEO quick tests: A/B test titles like "Agentic UI is the Future" vs. "A Deep Dive into Agentic Design Patterns."
-- Success metrics: High engagement (comments, shares) on social media.
+- To be developed.
+
+## Editorial brief
+- To be developed.
 
 ## Notes/assumptions
-- This is a more conceptual topic that may have a smaller but more engaged audience.
+- "Novelty" is high as this is a very new and still largely unexplored area of UI/UX design.
+- "Search_demand" is estimated to be moderate but growing as more developers and designers become aware of this concept.
+- "Competition" is low as there is not yet a large body of content on this topic.

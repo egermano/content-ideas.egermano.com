@@ -1,62 +1,54 @@
 ---
-title: 'Build an AI Chatbot with a Custom Knowledge Base'
+title: 'Building a Custom Knowledge Base Chatbot'
 pubDate: '2024-10-26'
 ---
 Start the filename with `_` to mark it as a draft and hide it from the list.
 
 ## Summary
-A tutorial on how to build an AI-powered chatbot that can answer questions about a specific domain of knowledge. This content is for web developers who want to build practical, real-world AI applications.
+A tutorial on how to build a chatbot that can answer questions based on a custom knowledge base, using techniques like Retrieval-Augmented Generation (RAG) and vector databases. This content is for intermediate developers who want to build more sophisticated and useful AI-powered chatbots.
 
 ## Why now
-Chatbots are one of the most common and practical applications of LLMs. Many businesses and individuals want to build chatbots that are trained on their own data, and this tutorial will show them how.
+Generic, pre-trained chatbots are often insufficient for business-specific use cases. The ability to create chatbots that can access and reason about private or proprietary data is a highly sought-after skill. The development of open-source tools and managed services for RAG has made this more accessible than ever.
 
 ## References
-- (I will find a good reference for this topic later)
+- https://weaviate.io/ - weaviate.io - 2024-10-26 - The official website for Weaviate, an open-source vector database.
+- https://www.llamaindex.ai/ - llamaindex.ai - 2024-10-26 - The official website for LlamaIndex, a popular data framework for LLM applications.
 
 ## Scores
-- novelty: 6
+- novelty: 8
 - search_demand: 9 (estimated)
-- competition: 9
+- competition: 7
 - effort: 8
 - monetization: 9
-- virality: 7
-- composite (weighted, 0–100): 78
+- virality: 8
+- composite (weighted, 0–100): 83
 
 ## SEO keywords
-Primary: AI chatbot tutorial, custom knowledge base chatbot, build a RAG chatbot
-Related: train a chatbot on your own data, document chatbot, website chatbot
+Primary: custom knowledge base chatbot, RAG tutorial
+Related: build a RAG chatbot, vector database tutorial, LlamaIndex tutorial
 
 ## Content angles
-- Tutorial: A step-by-step guide on how to build a chatbot from scratch, including data ingestion, vectorization, and deployment.
-- "No-code" alternative: A look at how to build a similar chatbot using a no-code platform.
-- Case study: How a real-world business used a custom chatbot to improve customer support.
+- Tutorial: Step-by-step guide to building a chatbot for your own documentation.
+- Comparison: An analysis of different vector databases and their suitability for different use cases.
+- Explainer: A deep dive into the technical concepts behind RAG and how it works.
 
 ## Production effort
-Estimated: high (18-25 hours)
+Estimated: high (25–35 hours)
 
 ## CTA/Monetization
-- "Sign up for our course on building and deploying AI chatbots."
-- Affiliate links for chatbot platforms and API services.
+- Offer a consulting service to help businesses build their own custom chatbots.
+- Create a managed service that simplifies the process of creating and deploying RAG chatbots.
+- Affiliate links for vector database providers and other AI services.
 
 ## Experiment plans
-### Experiment 1 — Build a chatbot for a specific domain
-- Objective: To build a functional chatbot that can answer questions about a specific domain of knowledge (e.g., a documentation website, a collection of blog posts).
-- Stack: Python, a vector database (e.g., Pinecone, Chroma), a frontend framework (e.g., React, Vue), a cloud hosting provider.
-- Steps:
-  1. Scrape the data from the knowledge base.
-  2. Ingest and vectorize the data into the vector database.
-  3. Build a backend API that implements the RAG pattern.
-  4. Build a frontend chat interface.
-  5. Deploy the chatbot to the cloud.
-- Expected: A publicly accessible chatbot that can accurately answer questions about the chosen domain.
-- Time est: 10-15 hours
-- Difficulty: high
-- Safety/privacy/licensing: Be mindful of the terms of service of the data source you are scraping.
+- To be developed.
 
 ## Validation checklist
-- Technical: Test the chatbot with a variety of questions to ensure it is providing accurate and relevant answers.
-- SEO quick tests: A/B test titles like "How to Build a Custom AI Chatbot" vs. "The Ultimate Guide to Building a Chatbot with Your Own Data."
-- Success metrics: High number of sign-ups for the course.
+- To be developed.
+
+## Editorial brief
+- To be developed.
 
 ## Notes/assumptions
-- Assumes the user has a strong understanding of web development and is comfortable working with APIs.
+- The "composite_score" is high due to the strong demand for this topic and its high monetization potential.
+- "Production effort" is high due to the complexity of the topic and the need for a solid understanding of both AI and data engineering concepts.

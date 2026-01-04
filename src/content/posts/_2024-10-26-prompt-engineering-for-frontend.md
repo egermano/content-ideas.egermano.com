@@ -1,60 +1,54 @@
 ---
-title: 'Prompt Engineering for Frontend Developers: A Practical Guide'
+title: 'Prompt Engineering for Frontend Developers'
 pubDate: '2024-10-26'
 ---
 Start the filename with `_` to mark it as a draft and hide it from the list.
 
 ## Summary
-A practical guide to prompt engineering specifically for frontend development tasks, such as generating components, writing tests, and debugging code. This content is for frontend developers who want to get the most out of AI coding assistants.
+A practical guide to prompt engineering specifically for frontend developers. This content will cover how to write effective prompts to generate UI components, design systems, and even entire layouts, using tools like Midjourney and v0.dev.
 
 ## Why now
-As AI coding assistants become more powerful, prompt engineering is becoming a critical skill for developers. However, most prompt engineering resources are generic; a guide specifically for frontend developers would be highly valuable.
+As AI image and code generation tools become more sophisticated, the ability to write precise and effective prompts is becoming a valuable skill for frontend developers. There is a growing need for content that goes beyond basic prompt writing and focuses on the specific challenges and opportunities of UI/UX design.
 
 ## References
-- (I will find a good reference for this topic later)
+- https://v0.dev/ - v0.dev - 2024-10-26 - A popular tool for generating UI components from text prompts.
+- https://www.promptingguide.ai/ - promptingguide.ai - 2024-10-26 - A comprehensive guide to prompt engineering techniques.
 
 ## Scores
-- novelty: 8
-- search_demand: 8 (estimated)
-- competition: 4
-- effort: 5
-- monetization: 6
-- virality: 7
-- composite (weighted, 0–100): 70
+- novelty: 9
+- search_demand: 7 (estimated)
+- competition: 5
+- effort: 7
+- monetization: 8
+- virality: 8
+- composite (weighted, 0–100): 75
 
 ## SEO keywords
-Primary: prompt engineering for developers, frontend prompt engineering, AI for frontend
-Related: ChatGPT for developers, GitHub Copilot prompts, generate React components with AI
+Primary: prompt engineering frontend, AI for UI design
+Related: Midjourney for developers, v0.dev tutorial, generative UI
 
 ## Content angles
-- Tutorial: A step-by-step guide with practical examples of how to write effective prompts for frontend tasks.
-- "Cheat sheet": A collection of ready-to-use prompts for common frontend development scenarios.
-- Case study: How a specific set of prompts was used to build a real-world component.
+- Tutorial: How to create a consistent design system using prompt engineering.
+- Case study: A/B testing different prompts to achieve a desired UI aesthetic.
+- Listicle: 10 essential prompt engineering tips for frontend developers.
 
 ## Production effort
-Estimated: medium (8-12 hours)
+Estimated: medium (15–20 hours)
 
 ## CTA/Monetization
-- "Download our free prompt engineering cheat sheet" (lead magnet).
-- Promote a workshop or course on advanced prompt engineering.
+- Offer a cheat sheet or library of effective prompts for frontend development.
+- Create a workshop or course on advanced prompt engineering for UI/UX design.
+- Affiliate links for AI design tools.
 
 ## Experiment plans
-### Experiment 1 — A/B test different prompt styles
-- Objective: To determine which prompt engineering techniques are most effective for generating high-quality frontend code.
-- Stack: An AI coding assistant (e.g., ChatGPT, GitHub Copilot), a frontend framework (e.g., React, Vue).
-- Steps:
-  1. Define a specific frontend task (e.g., create a responsive card component).
-  2. Write several different prompts for the same task, using different techniques (e.g., zero-shot, few-shot, role-playing).
-  3. Compare the quality of the generated code from each prompt.
-- Expected: A clear understanding of which prompt engineering techniques work best for frontend development.
-- Time est: 4-6 hours
-- Difficulty: medium
-- Safety/privacy/licensing: Be mindful of any sensitive information in your prompts.
+- To be developed.
 
 ## Validation checklist
-- Technical: Evaluate the generated code for correctness, completeness, and adherence to best practices.
-- SEO quick tests: A/B test titles like "The Prompt Engineering Guide for Frontend Devs" vs. "Stop Writing Bad Prompts: A Guide for Frontend Devs."
-- Success metrics: High number of downloads for the cheat sheet.
+- To be developed.
+
+## Editorial brief
+- To be developed.
 
 ## Notes/assumptions
-- Assumes the user has access to an AI coding assistant.
+- "Novelty" is high as prompt engineering is a relatively new and rapidly evolving field.
+- "Competition" is moderate as there is a growing amount of content on this topic, but much of it is still high-level.
