@@ -1,6 +1,6 @@
 ---
 title: 'Agentic UI Patterns'
-pubDate: '2024-10-26'
+pubDate: '2026-01-05'
 ---
 Start the filename with `_` to mark it as a draft and hide it from the list.
 
