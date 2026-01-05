@@ -1,6 +1,6 @@
 ---
 title: 'Cursor: Is This AI-Native Code Editor Worth Switching To?'
-pubDate: '2024-10-26'
+pubDate: '2025-12-22'
 ---
 Start the filename with `_` to mark it as a draft and hide it from the list.
 

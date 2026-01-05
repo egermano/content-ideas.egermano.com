@@ -1,6 +1,6 @@
 ---
 title: 'Agentic UI Patterns: Designing for the Next Generation of AI'
-pubDate: '2024-10-26'
+pubDate: '2025-12-22'
 ---
 Start the filename with `_` to mark it as a draft and hide it from the list.
 
