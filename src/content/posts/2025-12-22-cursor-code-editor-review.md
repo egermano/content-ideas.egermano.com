@@ -2,18 +2,23 @@
 title: 'Cursor: Is This AI-Native Code Editor Worth Switching To?'
 pubDate: '2025-12-22'
 ---
+
 Start the filename with `_` to mark it as a draft and hide it from the list.
 
 ## Summary
+
 A comprehensive review of Cursor, an AI-native code editor that aims to be a more powerful alternative to VS Code with integrated AI features. This content is for web developers who are looking to optimize their development environment.
 
 ## Why now
+
 Many developers are feeling the limitations of traditional code editors that have had AI features "bolted on." Cursor is one of the first and most popular editors to be built from the ground up with AI in mind.
 
 ## References
+
 - https://cursor.sh/ - cursor.sh - 2024-10-26 - The official website for Cursor.
 
 ## Scores
+
 - novelty: 8
 - search_demand: 7 (estimated)
 - competition: 5
@@ -23,23 +28,29 @@ Many developers are feeling the limitations of traditional code editors that hav
 - composite (weighted, 0–100): 64
 
 ## SEO keywords
+
 Primary: Cursor code editor review, AI code editor, Cursor vs VS Code
 Related: AI for developers, best code editors 2024, Cursor tutorial
 
 ## Content angles
+
 - Review: A detailed look at the key features of Cursor and how they compare to VS Code with extensions.
 - Tutorial: A guide on how to migrate from VS Code to Cursor and get the most out of its AI features.
 - Opinion: Is an AI-native code editor the future of software development?
 
 ## Production effort
+
 Estimated: low (6-8 hours)
 
 ## CTA/Monetization
+
 - "Share your favorite Cursor tips in the comments below."
 - Affiliate links for any paid plans that Cursor offers.
 
 ## Experiment plans
+
 ### Experiment 1 — Build a small project with Cursor
+
 - Objective: To evaluate the real-world performance and usability of Cursor by using it to build a small project from scratch.
 - Stack: Cursor, a standard web development stack (e.g., MERN, MEVN).
 - Steps:
@@ -52,14 +63,17 @@ Estimated: low (6-8 hours)
 - Safety/privacy/licensing: Be mindful of any sensitive information that you share with the AI.
 
 ## Validation checklist
+
 - Technical: Ensure the project built with Cursor is functional and well-structured.
 - SEO quick tests: A/B test titles like "I Used Cursor for a Week, Here's What I Think" vs. "The Ultimate Review of Cursor, the AI Code Editor."
 - Success metrics: High watch time on the YouTube review video.
 
 ## Notes/assumptions
+
 - Assumes the user is familiar with VS Code and is open to trying new development tools.
 
 ## Editorial brief
+
 - Video titles:
   - Clicky: "I Ditched VS Code for THIS AI Code Editor"
   - SEO-focused: "Cursor: The AI-Native Code Editor - In-Depth Review (2024)"

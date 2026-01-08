@@ -1,31 +1,28 @@
 ---
-title: 'Content Shortlist: AI in Web Development'
-pubDate: '2024-07-30'
+title: 'Shortlist of AI Content Ideas'
+pubDate: '2026-01-08'
 ---
-## Summary
-This document contains a prioritized shortlist of content ideas at the intersection of AI and web development. The topics are divided into "Quick Wins" (low effort, high reward) and "Deep Dives" (high effort, high impact).
 
 ## Quick Wins (Fast Production)
-These topics are ideal for producing high-quality content in a shorter amount of time. They are well-suited for tutorials and reviews that can be completed in a few days.
 
-1.  **The Rise of AI-Powered Dev Tools:** A review of GitHub Copilot, Tabnine, and Amazon CodeWhisperer.
-    *   **Why:** This is a high-demand topic that can be produced quickly, as it is a comparative review rather than a complex build.
-2.  **Building a Conversational Agent for a Website with the ChatGPT API:** A step-by-step tutorial.
-    *   **Why:** With the Vercel AI SDK and other templates, this has become a very accessible project for intermediate developers.
-3.  **Using LLMs to Generate Accessible Web Components:** A practical guide.
-    *   **Why:** While it sounds complex, a simple proof-of-concept is achievable in a short time and would be very valuable to the community.
+- **In-depth review of Cursor.sh**: This is a quick win because it's a review of an existing tool. The research is focused on a single product, and the content can be structured around a hands-on walkthrough.
+- **Prompt Engineering for Frontend Developers**: This topic is a great quick win because it's a conceptual article that can be written with a few well-chosen examples. It doesn't require a complex project build.
+- **The Rise of AI-Generated Content**: This is a high-level overview and opinion piece. It's a quick win because it's research-based and doesn't require any coding.
 
-## Deep Dives (High-Impact Content)
-These topics require more research and development time but have the potential to become flagship content pieces that attract a dedicated audience.
+## Deep, High-Impact Content (Higher Effort)
 
-1.  **Building a Personalized UX with Vector Databases and Embeddings:** A deep dive into creating personalized user experiences.
-    *   **Why:** This is a complex but increasingly important topic. A well-executed tutorial would be a valuable resource for developers.
-2.  **Fine-Tuning a Small Language Model for Domain-Specific Code Generation:** A look at fine-tuning smaller, more efficient language models.
-    *   **Why:** This is the most technically challenging topic, but it would attract a highly engaged audience of advanced developers.
-3.  **Integrating Vision AI into a Web App for Image Analysis:** A guide to incorporating computer vision capabilities.
-    *   **Why:** This is a substantial project with a lot of potential for a deep, technical tutorial that could be a valuable long-term asset.
+- **How to build a full-stack LLM application**: This is a deep dive because it requires building a complete application, which is a significant time investment. It has high impact because it's a practical, in-demand skill.
+- **Build a chatbot with a custom knowledge base**: This is a deep dive because it requires a good understanding of vector databases and retrieval-augmented generation (RAG). It's a high-impact topic because it's a very common and practical application of LLMs.
+- **Agentic UI Patterns**: This is a deep dive because it's a forward-looking topic that requires research and speculation. It has high impact because it positions the creator as a thought leader in the future of user interfaces.
 
-## Recommended Next Action Plan
-1.  **Flesh out the top 2 quick wins:** Complete the "Experiment plans," "Validation checklist," and "Editorial brief" sections for the "AI Dev Tools Review" and "Chatbot with ChatGPT API" topics. (Estimated time: 2-3 hours)
-2.  **Begin production on the top quick win:** Start working on the "AI Dev Tools Review" by installing and testing each tool. (Estimated time: 8-12 hours)
-3.  **Gather feedback:** Share the shortlist with the community to gauge interest and gather feedback on the chosen topics.
+## Recommended Next Action Plan and Timeline
+
+The recommended next action is to start with the "In-depth review of Cursor.sh" topic. It's a quick win that can be produced in a few days. The timeline would be:
+
+- **Days 1-2**: Research and hands-on with Cursor.sh.
+- **Day 3**: Outline the blog post and video script.
+- **Days 4-5**: Write the blog post and record the video.
+- **Day 6**: Edit the video and prepare for publishing.
+- **Day 7**: Publish the content.
+
+Which topic do you want to deep-dive?

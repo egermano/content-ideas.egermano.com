@@ -6,7 +6,8 @@ export const themeConfig: ThemeConfig = {
     website: 'https://content-idea.egermano.com/', // Site domain
     title: 'Content Idea', // Site title
     author: 'Bruno Germano', // Author name
-    description: 'Actionable content ideas, writing prompts, and templates to help creators plan and publish engaging posts.',
+    description:
+      'Actionable content ideas, writing prompts, and templates to help creators plan and publish engaging posts.',
     language: 'en-US' // Default language
   },
 
