@@ -2,19 +2,24 @@
 title: 'Cursor Code Editor Review'
 pubDate: '2026-01-05'
 ---
+
 Start the filename with `_` to mark it as a draft and hide it from the list.
 
 ## Summary
+
 A comprehensive review of Cursor, the AI-native code editor, and how it compares to established editors like VS Code with AI extensions. This content is for developers who are looking to optimize their development workflow with the latest AI-powered tools.
 
 ## Why now
+
 Cursor has been gaining popularity as a "VS Code killer" due to its deep integration of AI features. As the AI-native development landscape matures, developers are increasingly curious about whether these new tools are worth switching to from their current, more familiar setups.
 
 ## References
+
 - https://cursor.sh/ - cursor.sh - 2024-10-26 - The official website for the Cursor code editor.
 - https://code.visualstudio.com/ - code.visualstudio.com - 2024-10-26 - The official website for Visual Studio Code.
 
 ## Scores
+
 - novelty: 8
 - search_demand: 7 (estimated)
 - competition: 6
@@ -24,24 +29,30 @@ Cursor has been gaining popularity as a "VS Code killer" due to its deep integra
 - composite (weighted, 0–100): 68
 
 ## SEO keywords
+
 Primary: Cursor code editor review, AI code editors
 Related: Cursor vs VS Code, best AI dev tools, AI-native development
 
 ## Content angles
+
 - Review: An in-depth, feature-by-feature comparison of Cursor and VS Code with GitHub Copilot.
 - Tutorial: How to migrate your VS Code setup to Cursor and take advantage of its unique features.
 - Opinion: Are AI-native code editors the future, or just a passing trend?
 
 ## Production effort
+
 Estimated: medium (10–15 hours)
 
 ## CTA/Monetization
+
 - Affiliate links for Cursor or other AI-powered development tools.
 - Offer a course or workshop on how to master AI-assisted development workflows.
 - Create a community for developers who are passionate about AI-native tools.
 
 ## Experiment plans
+
 ### Experiment 1 — Head-to-Head Feature Comparison
+
 - **Objective:** To objectively compare the core AI features of Cursor and VS Code with the GitHub Copilot extension on a standardized set of development tasks.
 - **Stack:** Node.js, React, a small open-source project for the testbed.
 - **Steps:**
@@ -59,6 +70,7 @@ Estimated: medium (10–15 hours)
 - **Safety/privacy/licensing:** No significant issues, but ensure that no private API keys or sensitive data are exposed in screen recordings.
 
 ## Validation checklist
+
 - **Technical validation:** Ensure that any code generated or refactored by the AI tools is correct, functional, and passes any existing tests in the project.
 - **Audience/SEO validation:**
   - **A/B Title Suggestions:** "Cursor AI Editor Review: The VS Code Killer?" vs. "Cursor vs. VS Code + Copilot: An Honest Comparison."
@@ -69,6 +81,7 @@ Estimated: medium (10–15 hours)
 - **Success thresholds:** 1,500 views on the video within the first month OR a top-5 ranking for the primary keyword within 3 months.
 
 ## Editorial brief
+
 - **Video titles:**
   - **Clicky:** "I Ditched VS Code for This AI Code Editor... And I'm Never Going Back."
   - **SEO-focused:** "Cursor AI Code Editor Review: Better Than VS Code + Copilot?"
@@ -103,5 +116,6 @@ Estimated: medium (10–15 hours)
   - "Join my Discord community to share your experience with the latest AI dev tools."
 
 ## Notes/assumptions
+
 - The "search_demand" is estimated based on the growing buzz around Cursor and other AI-native tools on social media and in developer communities.
 - "Production effort" is medium as it requires hands-on experience with the tool and a thorough comparison with its main competitor.
