@@ -1,36 +1,63 @@
 {
   "name": "content-ideas",
-  "bucket": "",
+  "bucket": "content-ideas",
   "preset": "astro",
   "env": "production",
-  "prefix": "",
-  "not-first-run": false,
-  "function": [],
+  "prefix": "20260109102057",
+  "not-first-run": true,
+  "function": {
+    "id": 51186,
+    "name": "__DEFAULT__",
+    "file": ".edge/worker.js",
+    "args": "azion/args.json",
+    "instance-id": 45942,
+    "instance-name": "__DEFAULT__",
+    "cache-id": 0
+  },
   "application": {
-    "id": 0,
+    "id": 1767965689,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 0,
-    "name": "__DEFAULT__",
-    "domain_name": "",
-    "url": ""
+    "id": 1767967720,
+    "name": "content-ideas",
+    "domain_name": "fktisw2g88.map.azionedge.net",
+    "url": "https://fktisw2g88.map.azionedge.net"
   },
   "rt-purge": {
     "purge_on_publish": true
   },
-  "origin": null,
+  "origin": [
+    {
+      "origin-id": 251202,
+      "origin-key": "25df4217-c6cf-4b25-92b0-2a033a623fb9",
+      "name": "origin-storage-default"
+    }
+  ],
   "rules-engine": {
     "created": false,
-    "rules": null
+    "rules": [
+      {
+        "id": 507329,
+        "name": "Set Storage Origin for All Requests",
+        "phase": "request"
+      },
+      {
+        "id": 507330,
+        "name": "Deliver Static Assets",
+        "phase": "request"
+      },
+      {
+        "id": 507331,
+        "name": "Redirect to index.html",
+        "phase": "request"
+      },
+      {
+        "id": 507332,
+        "name": "Redirect to index.html for Subpaths",
+        "phase": "request"
+      }
+    ]
   },
-  "cache-settings": null,
-  "workloads": {
-    "id": 0,
-    "name": "",
-    "domains": null,
-    "url": "",
-    "deployment_id": null
-  },
-  "connectors": null
+  "cache-settings": []
 }
