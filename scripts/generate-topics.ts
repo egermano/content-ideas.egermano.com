@@ -2,7 +2,7 @@ import { topics } from './topics'
 import fs from 'fs'
 import path from 'path'
 
-const currentDate = '2026-01-08'
+const currentDate = '2026-01-09'
 
 const slugify = (str: string) =>
   str

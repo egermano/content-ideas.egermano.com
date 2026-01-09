@@ -1,6 +1,6 @@
 ---
-title: 'The Rise of AI-Generated Content'
-pubDate: '2026-01-08'
+title: 'In-depth review of Cursor.sh'
+pubDate: '2026-01-09'
 ---
 
 Start the filename with `_` to mark it as a draft and hide it from the list.

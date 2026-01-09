@@ -1,6 +1,6 @@
 ---
 title: 'Prompt Engineering for Frontend Developers'
-pubDate: '2026-01-08'
+pubDate: '2026-01-09'
 ---
 
 Start the filename with `_` to mark it as a draft and hide it from the list.

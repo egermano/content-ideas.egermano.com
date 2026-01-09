@@ -1,6 +1,6 @@
 ---
-title: 'The Future of AI in Web Development'
-pubDate: '2026-01-08'
+title: 'AI-Powered Code Refactoring'
+pubDate: '2026-01-09'
 ---
 
 Start the filename with `_` to mark it as a draft and hide it from the list.
