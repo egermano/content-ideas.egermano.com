@@ -3,8 +3,6 @@ title: 'Agentic UI Patterns: Designing for the Next Generation of AI'
 pubDate: '2025-12-22'
 ---
 
-Start the filename with `_` to mark it as a draft and hide it from the list.
-
 ## Summary
 
 A conceptual exploration of agentic UI patterns, such as ReAct, Reflection, and Tool Use. This content is for experienced web developers and UI/UX designers who want to understand the future of human-computer interaction.

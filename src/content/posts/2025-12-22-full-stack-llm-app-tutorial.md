@@ -3,8 +3,6 @@ title: 'Building a Full-Stack LLM Application with React and Flask'
 pubDate: '2025-12-22'
 ---
 
-Start the filename with `_` to mark it as a draft and hide it from the list.
-
 ## Summary
 
 A step-by-step guide for intermediate web developers on building a full-stack application that leverages a large language model for a core feature, such as a RAG (Retrieval-Augmented Generation) system with a Pinecone vector database.

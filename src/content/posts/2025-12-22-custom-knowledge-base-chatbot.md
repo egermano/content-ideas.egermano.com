@@ -3,8 +3,6 @@ title: 'Build an AI Chatbot with a Custom Knowledge Base'
 pubDate: '2025-12-22'
 ---
 
-Start the filename with `_` to mark it as a draft and hide it from the list.
-
 ## Summary
 
 A tutorial on how to build an AI-powered chatbot that can answer questions about a specific domain of knowledge. This content is for web developers who want to build practical, real-world AI applications.

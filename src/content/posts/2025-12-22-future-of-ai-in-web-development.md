@@ -3,8 +3,6 @@ title: 'The Future of AI in Web Development: Beyond Code Completion'
 pubDate: '2025-12-22'
 ---
 
-Start the filename with `_` to mark it as a draft and hide it from the list.
-
 ## Summary
 
 A thought-provoking piece on the long-term impact of AI on the web development profession. This content is for all web developers who are thinking about how to adapt to the changing technological landscape.

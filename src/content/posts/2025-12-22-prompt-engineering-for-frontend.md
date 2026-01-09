@@ -3,8 +3,6 @@ title: 'Prompt Engineering for Frontend Developers: A Practical Guide'
 pubDate: '2025-12-22'
 ---
 
-Start the filename with `_` to mark it as a draft and hide it from the list.
-
 ## Summary
 
 A practical guide to prompt engineering specifically for frontend development tasks, such as generating components, writing tests, and debugging code. This content is for frontend developers who want to get the most out of AI coding assistants.
