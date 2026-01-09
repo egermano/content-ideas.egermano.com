@@ -25,11 +25,11 @@ jobs:
           fetch-depth: 0
 
       - name: Use Node.js 20.x
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 20
 
-	  # If you want to change package manager, change the command below and add the necessary configurations
+      # If you want to change package manager, change the command below and add the necessary configurations
       - name: Install dependencies
         run: npm install
 
@@ -42,8 +42,8 @@ jobs:
       - name: CLI version
         run: azion --version
 
-		# Configure a personal token in your github secrets
-		# You may create a personal token by running 'azion create personal-token'
+      # Configure a personal token in your github secrets
+      # You may create a personal token by running 'azion create personal-token'
       - name: Configure token
         run: |
           azion -t ${{ secrets.AZION_PERSONAL_TOKEN }}  
