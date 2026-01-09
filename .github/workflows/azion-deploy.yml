@@ -24,14 +24,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Use Node.js 20.x
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: latest
+
+      - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 'latest'
+          cache: 'pnpm'
 
-      # If you want to change package manager, change the command below and add the necessary configurations
       - name: Install dependencies
-        run: npm install
+        run: pnpm install --frozen-lockfile --prefer-offline
 
       - name: Install Azion CLI
         run: |
@@ -49,9 +54,8 @@ jobs:
           azion -t ${{ secrets.AZION_PERSONAL_TOKEN }}  
           azion whoami
 
-      - name: Azion Build
-        run: |
-          azion build
+      - name: Build project
+        run: pnpm build
 
       # You may add the --sync flag to sync local and remote resources
       - name: Azion Deploy
@@ -67,7 +71,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No Azion changes to commit. Skipping push."
           else
-            git commit -m "chore: update azion files"
+            git commit -m "[skip ci] chore: update azion files"
             # Rebase in case remote has new commits, then push
             git pull --rebase origin ${{ inputs.branch }}
             git push
