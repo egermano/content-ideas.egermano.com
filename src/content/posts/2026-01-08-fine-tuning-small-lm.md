@@ -1,6 +1,6 @@
 ---
 title: 'Fine-Tuning Small Language Models for Specific Tasks'
-pubDate: '2025-01-08'
+pubDate: '2026-01-08'
 ---
 
 ## Summary

@@ -1,6 +1,6 @@
 ---
 title: 'Personalized UX with Vector Databases and RAG'
-pubDate: '2025-01-08'
+pubDate: '2026-01-08'
 ---
 
 ## Summary

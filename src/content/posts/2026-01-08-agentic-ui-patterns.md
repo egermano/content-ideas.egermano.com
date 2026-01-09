@@ -1,6 +1,6 @@
 ---
 title: 'The Rise of Agentic UI Patterns in Web Development'
-pubDate: '2025-01-08'
+pubDate: '2026-01-08'
 ---
 
 ## Summary

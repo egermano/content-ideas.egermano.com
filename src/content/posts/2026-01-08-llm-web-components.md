@@ -1,6 +1,6 @@
 ---
 title: 'Using LLMs to Generate Accessible Web Components'
-pubDate: '2025-01-08'
+pubDate: '2026-01-08'
 ---
 
 ## Summary

@@ -1,6 +1,6 @@
 ---
 title: 'Building a Smart Blog with a RAG-Powered Chatbot'
-pubDate: '2025-01-08'
+pubDate: '2026-01-08'
 ---
 
 ## Summary

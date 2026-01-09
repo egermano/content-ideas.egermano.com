@@ -1,6 +1,6 @@
 ---
 title: 'Content Shortlist: AI & Web Development'
-pubDate: '2025-01-08'
+pubDate: '2026-01-08'
 ---
 
 ## Prioritized Shortlist

@@ -1,6 +1,6 @@
 ---
 title: 'Using Vision AI in Web Apps for Image Analysis'
-pubDate: '2025-01-08'
+pubDate: '2026-01-08'
 ---
 
 ## Summary

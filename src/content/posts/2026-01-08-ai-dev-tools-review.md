@@ -1,6 +1,6 @@
 ---
 title: 'A Review of AI Developer Tools in 2025'
-pubDate: '2025-01-08'
+pubDate: '2026-01-08'
 ---
 
 ## Summary
