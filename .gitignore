@@ -27,3 +27,7 @@ pnpm-debug.log*
 # Netlify build output
 .netlify/
 
+#Paths added by Azion CLI
+.edge/
+.vulcan
+.open-next
