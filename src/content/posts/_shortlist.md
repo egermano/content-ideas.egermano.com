@@ -1,6 +1,6 @@
 ---
 title: 'Shortlist of AI Content Ideas'
-pubDate: '2026-01-09'
+pubDate: '2024-08-01'
 ---
 
 ## Quick Wins (Fast Production)
